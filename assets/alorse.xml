@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<FileZilla3>
+    <Servers>
+        <Server>
+            <Host>ftp.alorse.net</Host>
+            <Port>21</Port>
+            <Protocol>0</Protocol>
+            <Type>0</Type>
+            <User>wr45fgtc</User>
+            <Pass>1aC0ntraseña</Pass>
+            <Logontype>1</Logontype>
+            <TimezoneOffset>0</TimezoneOffset>
+            <PasvMode>MODE_DEFAULT</PasvMode>
+            <MaximumMultipleConnections>0</MaximumMultipleConnections>
+            <EncodingType>Auto</EncodingType>
+            <BypassProxy>0</BypassProxy>
+            <Name>personal</Name>
+            <Comments></Comments>
+            <LocalDir></LocalDir>
+            <RemoteDir></RemoteDir>
+            <SyncBrowsing>0</SyncBrowsing>personal
+        </Server>
+    </Servers>
+</FileZilla3>
